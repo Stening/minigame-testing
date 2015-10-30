@@ -54,5 +54,16 @@ table {
 
 
 #container{
-    background-color:#fff;
+    margin-left: auto;
+	margin-right: auto;
+    text-align:center;
+    max-width:960px;
+    height:auto;
+    width:100%;
+    background-color:#B2B2B2;
+}
+
+#canvas{
+    margin-top:200px;
+    background-color:white;
 }
